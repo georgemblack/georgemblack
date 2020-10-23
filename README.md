@@ -7,7 +7,7 @@ One of my favorite little side projects is a suite of services I use to run a we
 * [`web`](https://github.com/georgemblack/web): A static site generator (Go)
 * [`web-admin`](https://github.com/georgemblack/web-admin): A UI to edit site data (React/Redux)
 * [`web-api`](https://github.com/georgemblack/web-api): An API to access site data (Node/Express)
-* [`stats-worker`](https://github.com/georgemblack/stats-worker): A Cloudflare worker to collect web views
+* [`stats-relay-worker`](https://github.com/georgemblack/stats-relay-worker): A Cloudflare worker to collect web views
 * [`static-content-worker`](https://github.com/georgemblack/static-content-worker): A Cloudflare worker to host the site
 * [`gcs-kv-sync`](https://github.com/georgemblack/gcs-kv-sync): Syncs content from GCS to Cloudflare KV (Python)
 
