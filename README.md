@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a software engineer based in Chicago. (But working from Wisconsin!) One of my favorite little side projects is a suite of services I use to run a website, including a mini content management system.
+I'm a software engineer based in Madison, WI. One of my favorite little side projects is a suite of services I use to run a website, including a mini content management system.
 
 * [`web`](https://github.com/georgemblack/web): A static site generator (Go)
 * [`web-admin`](https://github.com/georgemblack/web-admin): A UI to edit site data (React/Redux)
