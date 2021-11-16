@@ -5,7 +5,6 @@ I'm a software engineer based in Madison, WI. One of my favorite little side pro
 * [`web`](https://github.com/georgemblack/web): A static site generator (Go)
 * [`web-admin`](https://github.com/georgemblack/web-admin): A UI to edit site data (React/Redux)
 * [`web-api`](https://github.com/georgemblack/web-api): An API to access site data (Node/Express)
-* [`stats-relay-worker`](https://github.com/georgemblack/stats-relay-worker): A Cloudflare worker to collect web views
 * [`static-content-worker`](https://github.com/georgemblack/static-content-worker): A Cloudflare worker to host the site
 * [`gcs-kv-sync`](https://github.com/georgemblack/gcs-kv-sync): Syncs content from GCS to Cloudflare KV (Python)
 
